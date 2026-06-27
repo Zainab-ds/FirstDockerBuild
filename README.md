@@ -8,11 +8,11 @@ This is my first project using Docker with Flask. It may be a simple application
 * Flask
 * Docker 
 ## ▶️ Run the Project
-in command prompt 
-docker build -t myfirst_image .
-docker run -p 5000:5000 myfirst_image
-Then open:
-http://localhost:5000
+*In command prompt 
+*docker build -t myfirst_image .
+*docker run -p 5000:5000 myfirst_image
+*Then open:
+*http://localhost:5000
 ## 📚 What I Learned
 
 * Creating a Dockerfile
